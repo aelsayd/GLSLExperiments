@@ -13,7 +13,7 @@ public class Main extends PApplet {
     }
 
     public void setup(){
-        shader = loadShader("DiamondDance.frag");
+        shader = loadShader("radar.frag");
     }
 
     public void draw(){
