@@ -2,25 +2,25 @@
 
 ## Diamond Dance
 
-![](zoom.mp4)
+![](recordings/zoom.gif)
 
 ## Radar
 
-![](radar.mp4)
+![](recordings/radar.gif)
 
 ## Patterns
 
-![](patterns.mp4)
+![](recordings/patterns.gif)
 
 ## Ghost
 
-![](ghost.mp4)
+![](recordings/ghost.gif)
 
 ## Noise
 
-![](nosie.mp4)
+![](recordings/nosie.gif)
 
 ## Swing
 
-![](swing.mp4)
+![](recordings/swing.gif)
 
