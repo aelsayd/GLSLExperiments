@@ -19,8 +19,3 @@
 ## Noise
 
 ![](recordings/nosie.gif)
-
-## Swing
-
-![](recordings/swing.gif)
-
